@@ -1,0 +1,18 @@
+[
+    { 
+        "id": 1, 
+        "name": "Atsui-yo",
+        "avatar": "./Components/Images/wolf-face.jpg",
+        "hero": "./Components/Images/apple-b-w-brick-wall.jpg",
+        "info": [
+            {
+                "job": "Software Developer",
+                "school": "Self Taught",
+                "city": "Charleston",
+                "state": "South Carolina",
+                "country": "U.S.A"
+            }
+        ]
+        
+    }
+]
